@@ -1,0 +1,1 @@
+python3 cmsc423proj1.py 
